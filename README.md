@@ -1,2 +1,3 @@
 # demofile
-This is my first demo exerperence on github.
+This is my first github repository.
+author - hit gajera
